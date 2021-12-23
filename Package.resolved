@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SubFramework_1",
+        "repositoryURL": "https://github.com/ashishguru1986/SubFramework_1.git",
+        "state": {
+          "branch": null,
+          "revision": "ea1042c221dd132335de2fdf16c43b287d1222a9",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SubFramework_2",
+        "repositoryURL": "https://github.com/ashishguru1986/SubFramework_2.git",
+        "state": {
+          "branch": null,
+          "revision": "ca61827c412d86e77ed8b43580e1509f82018b9a",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
