@@ -15,6 +15,6 @@ public struct UmbrellaFramework {
     }
     
     public func callSubFramework_2(){
-        subFramework_1.subFramework_1_Method()
+        subFramework_2.subFramework_2_Method()
     }
 }
